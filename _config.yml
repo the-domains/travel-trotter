@@ -1,0 +1,14 @@
+layout_spectrum: 0.5890002474188805
+typography_spectrum: 0.6377072115428746
+color:
+  brandStrength: 0.8085237413179129
+  lightness: 0.7451687324792147
+  saturation: 0.510672421194613
+  rhythmicContrast: 0.5110684474930167
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Travel trotter
